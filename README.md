@@ -1,3 +1,4 @@
+<pre>
 # Maze_Solver Example Run with Output using Maze1.txt
 ===================================================
 
@@ -280,3 +281,4 @@ XXXXXXX +*
 
 
 Path found (true/false): 1
+        </pre>
